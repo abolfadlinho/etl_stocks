@@ -1,0 +1,14 @@
+2025-06-29 15:34:55,968 [INFO] - ==== ETL PIPELINE STARTED ====
+2025-06-29 15:34:55,973 [ERROR] - Extraction failed: Invalid file path or buffer object type: <class 'NoneType'>
+2025-06-29 15:34:55,974 [CRITICAL] - ETL process failed. See logs for details.
+2025-06-29 15:34:55,974 [INFO] - ==== ETL PIPELINE FINISHED in 0.00s ====
+2025-06-29 15:36:28,714 [INFO] - ==== ETL PIPELINE STARTED ====
+2025-06-29 15:36:28,718 [ERROR] - Extraction failed: Invalid file path or buffer object type: <class 'NoneType'>
+2025-06-29 15:36:28,719 [CRITICAL] - ETL process failed. See logs for details.
+2025-06-29 15:36:28,719 [INFO] - ==== ETL PIPELINE FINISHED in 0.00s ====
+2025-06-29 15:38:05,114 [INFO] - ==== ETL PIPELINE STARTED ====
+2025-06-29 15:38:13,926 [INFO] - CSV loaded successfully with 1891536 rows.
+2025-06-29 15:38:14,358 [INFO] - Filtered data to 1136528 rows before 2019-01-01.
+2025-06-29 15:38:14,884 [INFO] - Transformation complete.
+2025-06-29 15:39:37,512 [INFO] - Loaded 361843 rows into 'stocks' table.
+2025-06-29 15:39:37,513 [INFO] - ==== ETL PIPELINE FINISHED in 92.40s ====
